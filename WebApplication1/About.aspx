@@ -6,4 +6,5 @@
     <p>Use this area to provide additional information.</p>
     testing the project
     testing in Git through UI
+    test in VS
 </asp:Content>
